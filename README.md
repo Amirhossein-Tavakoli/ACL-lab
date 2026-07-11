@@ -95,7 +95,7 @@ Router# ping 192.168.3.100
 
 | File | Description |
 |------|-------------|
-| `extended-acl-lab.pkt` | Cisco Packet Tracer project |
+| `ACL-lab.pkt` | Cisco Packet Tracer project |
 | `topology.png` | Network topology |
 
 ---
